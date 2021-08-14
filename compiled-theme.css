@@ -241,7 +241,7 @@ html.theme-light #app-mount::after {
 .titleBar-AC4pGV .wordmark-2iDDfm::after {
     content: "AMOLED-Cord";
     position: absolute;
-    font-family: "Fredoka One";
+    font-family: "Share Tech Mono", monospace;
     background: white;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
